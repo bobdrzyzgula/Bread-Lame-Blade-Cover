@@ -1,0 +1,7 @@
+# OpenSCAD / slicer scratch
+*.bak
+*.3mf.bak
+*.gcode
+*.bgcode
+*.gcode.3mf
+.DS_Store
